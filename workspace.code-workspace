@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\JS-Basics"
+		},
+		{
+			"path": "..\\WebdriverIOFinalProject"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JSTutorial",
+		"editor.mouseWheelZoom": true,
+		"diffEditor.wordWrap": "on"
+	}
+}
